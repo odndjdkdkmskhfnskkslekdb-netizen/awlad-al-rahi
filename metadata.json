@@ -1,0 +1,8 @@
+{
+  "name": "AWLAD AL RAJHI – Luxury Furniture Showroom",
+  "description": "AWLAD AL RAJHI – أولاد الراجحي | Where Elegance Meets Excellence. International luxury furniture showroom featuring curated bedrooms, dressing rooms, dining collections, and bespoke living spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
